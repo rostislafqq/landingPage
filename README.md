@@ -1,4 +1,4 @@
-# landingPage
+https://codesandbox.io/s/fancy-voice-ol82m1
 Pet проект  представляет из себя адаптивную верстку по макету из фигмы . Ну и немного(!!) JS'а.
 ![image](https://user-images.githubusercontent.com/97777490/181719810-e7e8593d-243e-4d02-9fa1-82263a723b9f.png)
 ![image](https://user-images.githubusercontent.com/97777490/197529872-645a02d4-4dc4-49b6-b4bf-b73ae0b35f65.png)
